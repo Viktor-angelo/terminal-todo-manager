@@ -22,3 +22,8 @@ This project runs directly in the terminal and allows users to add, view, and ma
 - ANSI Escape Sequences for color output (optional)
 
 ----
+▶️ How to Run the Project
+git clone https://github.com/Viktor-angelo/terminal-todo-manager.git
+cd terminal-todo-manager
+python todo.py
+
