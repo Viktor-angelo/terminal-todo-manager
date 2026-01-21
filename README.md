@@ -1,11 +1,11 @@
-# Terminal To-Do Manager 📝
+# Terminal To-Do Manager 
 
 A simple and functional to-do list application built with Python.  
 This project runs directly in the terminal and allows users to add, view, and manage their tasks using a clean menu-based interface.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Add new tasks with title, description, and priority
 - View all tasks
@@ -15,14 +15,15 @@ This project runs directly in the terminal and allows users to add, view, and ma
 
 ---
 
-## 💻 Technologies
+##  Technologies
 
 - Python 3
 - JSON for data storage
 - ANSI Escape Sequences for color output (optional)
 
 ----
-▶️ How to Run the Project
+
+ How to Run the Project
 git clone https://github.com/Viktor-angelo/terminal-todo-manager.git
 cd terminal-todo-manager
 python todo.py
